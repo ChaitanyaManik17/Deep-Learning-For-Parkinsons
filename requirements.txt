@@ -1,0 +1,17 @@
+# Deep Learning Framework
+tensorflow>=2.0
+
+# Data Processing and Numerical Operations
+numpy
+pandas
+scikit-learn
+
+# Image Processing and Feature Extraction
+opencv-python
+scikit-image
+PyWavelets
+Pillow
+
+# Visualization
+matplotlib
+seaborn
